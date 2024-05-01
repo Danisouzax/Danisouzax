@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou a [Dani](https://www.linkedin.com/in/danioak)
 
-<p align="justify">
+<p align="justify"> 
+  <img align="right" alt="Logo DaniOak" width="380" src="https://lh3.googleusercontent.com/pw/AP1GczMKpvL845mrYjeSmft4Uhff6AJVn9TBOsjC8IxmprXgQpkRsJReeJTPnp31MUA08K-Up0u3rP5KjB9GCyU-00x8uohP0FCeqJwLlhbrKz1W_EZGsN9XuQqOrT7_5Aa4xk0V5ZYILbofXr6BrugD0JTrmg=w890-h890-s-no-gm?authuser=0" alt="MyOctocat">
   👩‍💻 Trabalho atualmente na [Blip](https://www.blip.ai/)
   
   ## 🚀 Sobre mim
@@ -16,5 +17,5 @@
   [Currículos Lattes: DaniOak](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=36A246C70557F2D865E43BE142DE98F6.buscatextual_0)
   
   - 📫 Como entrar em contato comigo [por aqui](https://t.me/danioak)
-    <img align="right" alt="Logo DaniOak" width="380" src="https://lh3.googleusercontent.com/pw/AP1GczMKpvL845mrYjeSmft4Uhff6AJVn9TBOsjC8IxmprXgQpkRsJReeJTPnp31MUA08K-Up0u3rP5KjB9GCyU-00x8uohP0FCeqJwLlhbrKz1W_EZGsN9XuQqOrT7_5Aa4xk0V5ZYILbofXr6BrugD0JTrmg=w890-h890-s-no-gm?authuser=0" alt="MyOctocat">
+   
 </p>
