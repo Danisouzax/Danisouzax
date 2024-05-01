@@ -20,3 +20,4 @@ Obrigada pela atenção!💛
 
 
 - 📫 Como entrar em contato comigo [por aqui](https://t.me/danioak)
+<img src="file:///C:/Users/daniele.carvalho/Downloads/Myoctocat.webp" alt="Texto Alternativo">
