@@ -15,9 +15,9 @@
   Estou em busca de novas oportunidades na área de tecnologia, e acredito que posso contribuir positivamente em uma equipe que valoriza a colaboração, a inovação e o aprendizado contínuo.
   Obrigada pela atenção!💛
   ## 👩‍💻 Rede Sociais 
-  [Linkedin: DaniOak](https://www.linkedin.com/in/danioak)
+  [Linkedin: DaniOak](https://www.linkedin.com/in/danioak)<br>
   [Currículos Lattes: DaniOak](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=36A246C70557F2D865E43BE142DE98F6.buscatextual_0)
-  
+  <br>
   - 📫 Como entrar em contato comigo [por aqui](https://t.me/danioak)
    
 </p>
