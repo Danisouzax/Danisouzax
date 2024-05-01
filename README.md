@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou a [Dani](https://www.linkedin.com/in/danioak)
 
+👩‍💻 Trabalho atualmente na [Blip](https://www.blip.ai/)
+
 ## 🚀 Sobre mim
 Meu nome é Daniele e sou graduada em Letras (Licenciatura) pela Universidade Federal de Minas Gerais (UFMG). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade São Francisco de Assis (FSFA), com foco em Desenvolvimento Full Stack.
 
