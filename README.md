@@ -2,7 +2,7 @@
 
 <p align="left"> 
   
-  <img align="right" alt="Logo DaniOak" width="760" src="https://lh3.googleusercontent.com/pw/AP1GczMKpvL845mrYjeSmft4Uhff6AJVn9TBOsjC8IxmprXgQpkRsJReeJTPnp31MUA08K-Up0u3rP5KjB9GCyU-00x8uohP0FCeqJwLlhbrKz1W_EZGsN9XuQqOrT7_5Aa4xk0V5ZYILbofXr6BrugD0JTrmg=w890-h890-s-no-gm?authuser=0" alt="MyOctocat">
+  <img align="right" alt="Logo DaniOak" width="620" src="https://lh3.googleusercontent.com/pw/AP1GczMKpvL845mrYjeSmft4Uhff6AJVn9TBOsjC8IxmprXgQpkRsJReeJTPnp31MUA08K-Up0u3rP5KjB9GCyU-00x8uohP0FCeqJwLlhbrKz1W_EZGsN9XuQqOrT7_5Aa4xk0V5ZYILbofXr6BrugD0JTrmg=w890-h890-s-no-gm?authuser=0" alt="MyOctocat">
   
   👩‍💻 Trabalho atualmente na [Blip](https://www.blip.ai/)
   
