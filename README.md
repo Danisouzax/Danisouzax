@@ -16,6 +16,6 @@
   [Linkedin: DaniOak](https://www.linkedin.com/in/danioak)<br>
   [Currículos Lattes: DaniOak](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=36A246C70557F2D865E43BE142DE98F6.buscatextual_0)
   <br>
-  - 📫 Como entrar em contato comigo [por aqui](https://t.me/danioak)
+  - 📫 Como entrar em contato comigo [por aqui](https://api.whatsapp.com/send/?phone=%2B5531993793365&text&type=phone_number&app_absent=0)
    
 </p>
