@@ -4,7 +4,7 @@
   
   <img align="right" alt="Logo DaniOak" width="380" src="https://lh3.googleusercontent.com/pw/AP1GczMKpvL845mrYjeSmft4Uhff6AJVn9TBOsjC8IxmprXgQpkRsJReeJTPnp31MUA08K-Up0u3rP5KjB9GCyU-00x8uohP0FCeqJwLlhbrKz1W_EZGsN9XuQqOrT7_5Aa4xk0V5ZYILbofXr6BrugD0JTrmg=w890-h890-s-no-gm?authuser=0" alt="MyOctocat">
   <p align="left"> 
-🚀 Sobre mim
+🚀 Sobre mim<br>
  👋 Olá! Eu sou Daniele Carvalho de Souza, desenvolvedora Full Stack formada em Análise e Desenvolvimento de Sistemas e pós-graduanda em Desenvolvimento Full Stack pela PUC Minas.
 💻 Tenho experiência no desenvolvimento de aplicações web, APIs e chatbots, atuando em todo o ciclo de vida do software — do levantamento de requisitos à entrega em produção. Já trabalhei com JavaScript, TypeScript, React, Node.js, HTML, CSS, APIs REST, integração de sistemas e práticas como SOLID, Clean Code e metodologias ágeis.
 🤖 Sou apaixonada por tecnologia e inovação, especialmente por soluções que envolvem Inteligência Artificial, automação e melhoria da experiência do usuário.
