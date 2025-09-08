@@ -18,5 +18,4 @@ Olá! Eu sou Daniele Carvalho, desenvolvedora Full Stack formada em Análise e D
 
   <br>
   - 📫 Como entrar em contato comigo [por aqui](https://api.whatsapp.com/send/?phone=%2B5531993793365&text&type=phone_number&app_absent=0)
-   
 </p>
